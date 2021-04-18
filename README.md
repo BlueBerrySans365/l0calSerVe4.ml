@@ -1,11 +1,12 @@
-# alexflipnote.dev
-- Site: https://alexflipnote.dev
-- Usage: Information about myself
+# l0calserve4.ml
+- Site: https://l0calserve4.ml
+- Usage: Information about l0calserve4 team
 
-This site proudly uses [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS) (since I made it, lol)
+This site proudly uses [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS) 
 
-## Licenses
-My code is under [GPL 3.0](https://github.com/AlexFlipnote/alexflipnote.github.io/blob/master/LICENSE) while my [avatar](https://alexflipnote.dev/branding) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+## License
+This code is under [GPL 3.0](https://github.com/AlexFlipnote/alexflipnote.github.io/blob/master/LICENSE).
 
-## Open-source
-Just download and do whatever you want with it, I don't really mind, but please give credits, thanks ❤
+## Original by AlexFlipNote
+Original = https://github.com/AlexFlipnote/alexflipnote.github.io ❤
+
