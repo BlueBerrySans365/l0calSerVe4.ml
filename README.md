@@ -7,6 +7,6 @@ This site proudly uses [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
 ## License
 This code is under [GPL 3.0](https://github.com/AlexFlipnote/alexflipnote.github.io/blob/master/LICENSE).
 
-## Original by AlexFlipNote
+## ❤ Original by AlexFlipNote ❤
 Original = https://github.com/AlexFlipnote/alexflipnote.github.io ❤
 
